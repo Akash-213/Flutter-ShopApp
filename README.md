@@ -1,16 +1,5 @@
-# shop_app
+Shop App with firebase as database 
 
-A new Flutter project.
+Video Link - https://drive.google.com/file/d/1NBmdfS7TuCmDX2H0P_ggULYPjgmeN7JH/view?usp=sharing
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Apk Link - https://drive.google.com/file/d/1WB8C0_iQA5Bj3m7w4WhP_9KYovih64wS/view?usp=sharing
